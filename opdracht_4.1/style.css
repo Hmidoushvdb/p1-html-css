@@ -3,6 +3,10 @@ h1{
     color: blue;
     font-weight: bold;
     font-style: italic;
+ 
+    }
+    
+   
   }
   h2{
     font-size: 20px;
@@ -16,7 +20,10 @@ h3{
 }
  p{
 color:  #4D4D4D;
-
+border-style: solid;
+border-radius: 8px;
+border-color: aqua;
+border-left-width: 15px;
  }
  a{ 
   color: #8A2BE2;
@@ -24,6 +31,10 @@ color:  #4D4D4D;
  }
 p.p1{
   font-weight: bold;
+}
+header{
+  width: 33%;
+  background-image: url(11.jpg);
 }
    
  
